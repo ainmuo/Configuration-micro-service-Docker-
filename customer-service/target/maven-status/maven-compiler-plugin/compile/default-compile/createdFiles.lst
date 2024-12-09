@@ -1,0 +1,6 @@
+ma\formations\msa\customerservice\entities\Customer.class
+ma\formations\msa\customerservice\entities\Customer$CustomerBuilder.class
+ma\formations\msa\customerservice\repository\CustomerRepository.class
+ma\formations\msa\customerservice\web\ConfigTestController.class
+ma\formations\msa\customerservice\CustomerServiceApplication.class
+ma\formations\msa\customerservice\web\CustomerRestController.class

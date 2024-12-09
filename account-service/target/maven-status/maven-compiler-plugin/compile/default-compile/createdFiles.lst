@@ -1,0 +1,9 @@
+ma\formations\msa\accountservice\repository\AccountRepository.class
+ma\formations\msa\accountservice\entities\AccountType.class
+ma\formations\msa\accountservice\AccountServiceApplication.class
+ma\formations\msa\accountservice\entities\BankAccount$BankAccountBuilder.class
+ma\formations\msa\accountservice\entities\BankAccount.class
+ma\formations\msa\accountservice\entities\Customer$CustomerBuilder.class
+ma\formations\msa\accountservice\controllers\AccountRestController.class
+ma\formations\msa\accountservice\clients\CustomerRestClient.class
+ma\formations\msa\accountservice\entities\Customer.class
